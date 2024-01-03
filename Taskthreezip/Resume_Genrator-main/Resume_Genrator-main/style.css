@@ -1,0 +1,12 @@
+ /* #cv-form{
+    display: none;
+}  */
+
+
+#cv-template{
+    display: none;
+}
+
+.background{
+    background-color: rgb(101, 173, 224);
+}
